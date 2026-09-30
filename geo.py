@@ -5,4 +5,4 @@ def get_location_name(latitude, longitude):
     location = geolocator.reverse(f'{latitude}, {longitude}')
     return location.address
 
-print(get_location_name(******, ******))
+print(get_location_name(**.****, **.****))
